@@ -1,5 +1,69 @@
-# Object file
-*.o
+# ================================================================
+#  .gitignore - Smart Panel PLTS (ESP32 / Arduino)
+# ================================================================
 
-# Ada Library Information
-*.ali
+# ---- Hasil build Arduino IDE / arduino-cli ----
+build/
+*.elf
+*.bin
+*.map
+*.hex
+*.eep
+*.lst
+*.o
+*.a
+*.d
+
+# ---- PlatformIO (kalau suatu saat dipindah ke PlatformIO) ----
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# ---- Arduino IDE 2.x ----
+.arduino-ide/
+.vscode/ipch/
+.vscode/.browse.c_cpptools*
+
+# ---- Editor / IDE ----
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-workspace
+*.sublime-project
+
+# ---- File rahasia / konfigurasi pribadi ----
+# Kalau kamu memisahkan SSID, password WiFi, atau password admin
+# ke file sendiri, taruh di salah satu nama ini supaya TIDAK ikut ke GitHub.
+secrets.h
+credentials.h
+config_private.h
+config.local.h
+*.secret
+*.local
+.env
+.env.*
+
+# ---- Log & backup ----
+*.log
+*.bak
+*.orig
+*.rej
+*.tmp
+*.swp
+*~
+
+# ---- File sistem operasi ----
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ---- Folder kerja pribadi ----
+tmp/
+temp/
+backup/
+
