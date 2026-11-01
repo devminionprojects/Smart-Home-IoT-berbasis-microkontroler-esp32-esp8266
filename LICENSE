@@ -1,6 +1,10 @@
-MIT License
+MIT License / Lisensi MIT
 
-Copyright (c) 2026 Moh. Hilmi Mulia Rahardyan 
+Copyright (c) 2026 Moh Hilmi Mulia Rahardyan (Team MP / Minions Project)
+
+================================================================
+ ENGLISH (official / legally binding version)
+================================================================
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +23,39 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+SAFETY NOTICE: This project switches mains voltage (AC) through relays and
+interfaces with batteries and solar panels. Working with mains electricity and
+lithium/LiFePO4 batteries can cause fire, injury or death. You use this
+project entirely at your own risk.
+
+================================================================
+ BAHASA INDONESIA (terjemahan tidak resmi / unofficial translation)
+================================================================
+
+Dengan ini diberikan izin, secara gratis, kepada siapa pun yang memperoleh
+salinan perangkat lunak ini beserta berkas dokumentasi terkait ("Perangkat
+Lunak"), untuk menggunakan Perangkat Lunak tanpa batasan, termasuk namun tidak
+terbatas pada hak untuk menggunakan, menyalin, mengubah, menggabungkan,
+menerbitkan, mendistribusikan, mensublisensikan, dan/atau menjual salinan
+Perangkat Lunak, serta mengizinkan orang yang menerima Perangkat Lunak ini
+untuk melakukan hal yang sama, dengan syarat sebagai berikut:
+
+Pemberitahuan hak cipta di atas dan pemberitahuan izin ini wajib disertakan
+dalam semua salinan atau bagian penting dari Perangkat Lunak.
+
+PERANGKAT LUNAK INI DISEDIAKAN "SEBAGAIMANA ADANYA", TANPA JAMINAN APA PUN,
+BAIK TERSURAT MAUPUN TERSIRAT, TERMASUK NAMUN TIDAK TERBATAS PADA JAMINAN
+KELAYAKAN DIPERDAGANGKAN, KESESUAIAN UNTUK TUJUAN TERTENTU, DAN TIDAK ADANYA
+PELANGGARAN HAK. DALAM KEADAAN APA PUN PARA PENULIS ATAU PEMEGANG HAK CIPTA
+TIDAK BERTANGGUNG JAWAB ATAS KLAIM, KERUSAKAN, ATAU KEWAJIBAN LAIN, BAIK DALAM
+TINDAKAN KONTRAK, PERBUATAN MELAWAN HUKUM, ATAU LAINNYA, YANG TIMBUL DARI,
+DISEBABKAN OLEH, ATAU BERKAITAN DENGAN PERANGKAT LUNAK INI ATAU PENGGUNAAN
+ATAUPUN TRANSAKSI LAIN DALAM PERANGKAT LUNAK INI.
+
+PERINGATAN KESELAMATAN: Proyek ini menyambungkan tegangan listrik AC (PLN)
+melalui relay dan terhubung dengan baterai serta panel surya. Bekerja dengan
+listrik AC dan baterai lithium/LiFePO4 dapat menyebabkan kebakaran, cedera,
+atau kematian. Anda menggunakan proyek ini sepenuhnya atas risiko sendiri.
+
+----------------------------------------------------------------
